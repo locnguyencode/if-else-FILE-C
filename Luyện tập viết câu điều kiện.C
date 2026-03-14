@@ -8,6 +8,7 @@ N có phải là số có 2 chữ số có chữ tận cùng là một số nguy
 N có phải là số không vượt quá 100 và chia hết cho 23?
 N không thuộc đoạn [10, 20]?
 N có chữ số tận cùng là bội số của 3?
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
