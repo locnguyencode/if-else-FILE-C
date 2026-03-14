@@ -1,4 +1,5 @@
 hãy tính khoảng cách Euclid giữa 2 điểm trong hệ tọa độ Oxy🥰🥰
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
